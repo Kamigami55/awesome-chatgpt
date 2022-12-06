@@ -35,6 +35,7 @@
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：MacOS 選單列應用程式。
 - [Twitter/@ChatGPTBot](https://twitter.com/ChatGPTBot)：Twitter 推特機器人。（[程式碼](https://github.com/transitive-bullshit/chatgpt-twitter-bot)）
 - [ChatGPT ProBot](https://github.com/oceanlvr/ChatGPTBot)：GitHub APP。輸入 `/chatgpt` 來與 ChatGPTBot 交談。
+- [ChatGPT Raycast extension](https://github.com/abielzulio/chatgpt-raycast)：Raycast 擴充套件。
 
 ## 延伸應用
 

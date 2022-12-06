@@ -35,6 +35,7 @@
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): MacOS menubar app.
 - [Twitter/@ChatGPTBot](https://twitter.com/ChatGPTBot): Twitter bot. ([source code](https://github.com/transitive-bullshit/chatgpt-twitter-bot))
 - [ChatGPT ProBot](https://github.com/oceanlvr/ChatGPTBot): GitHub APP. Type `/chatgpt` to chat with ChatGPTBot.
+- [ChatGPT Raycast extension](https://github.com/abielzulio/chatgpt-raycast): Run ChatGPT through Raycast extension.
 
 ## Applications
 
