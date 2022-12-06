@@ -1,6 +1,6 @@
 # Awesome ChatGPT
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![中文版 badge](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-Traditional%20Chinese-blue)](./README-zh-TW.md)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![English badge](https://img.shields.io/badge/%E8%8B%B1%E6%96%87-English-blue)](./README.md) [![中文版 badge](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-Traditional%20Chinese-blue)](./README-zh-TW.md)
 
 > An awesome & curated list of best recources, tools, applications, usages of ChatGPT.
 
