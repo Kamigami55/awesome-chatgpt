@@ -11,7 +11,7 @@
 - [官方資源](#官方資源)
 - [在任何地方使用 ChatGPT](#在任何地方使用-chatgpt)
 - [延伸應用](#延伸應用)
-- [開發用 API](#開發用-api)
+- [開發工具（API、SDK）](#開發工具apisdk)
 
 ---
 
@@ -30,7 +30,8 @@
 
 - [ShareGPT](https://sharegpt.com/): 輕鬆分享 ChatGPT 對話紀錄
 
-## 開發用 API
+## 開發工具（API、SDK）
 
 - [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT)（Python、非官方）：輕量化、基於 TLS 的 ChatGPT API 可以在您的 CLI 中使用，無需使用瀏覽器或驗證金鑰。
-- [ChatGPT API](https://github.com/transitive-bullshit/chatgpt-api)（Node.js、非官方）：Node.js 客戶端。
+- [pip/revChatGPT](https://github.com/acheong08/ChatGPT)（Python、非官方）：與 OpenAI 的 ChatGPT API 互動的輕量化套件。採用逆向工程手法。
+- [npm/chatgpt](https://github.com/transitive-bullshit/chatgpt-api)（Node.js、非官方）：Node.js 客戶端。
