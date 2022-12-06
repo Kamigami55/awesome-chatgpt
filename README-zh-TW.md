@@ -32,7 +32,7 @@
 
 ## 延伸應用
 
-- [ShareGPT](https://sharegpt.com/): 輕鬆分享 ChatGPT 對話紀錄
+- [ShareGPT](https://sharegpt.com/): 輕鬆分享 ChatGPT 對話紀錄。（[demo](https://twitter.com/steventey/status/1599816553490366464)）
 
 ## 開發工具（API、SDK）
 

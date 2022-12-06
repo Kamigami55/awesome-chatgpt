@@ -32,7 +32,7 @@
 
 ## Applications
 
-- [ShareGPT](https://sharegpt.com/): Share your wildest ChatGPT conversations with one click.
+- [ShareGPT](https://sharegpt.com/): Share your wildest ChatGPT conversations with one click. ([demo](https://twitter.com/steventey/status/1599816553490366464))
 
 ## Development tools (API, SDK)
 
