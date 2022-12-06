@@ -10,6 +10,7 @@
 
 - [官方資源](#官方資源)
 - [在任何地方使用 ChatGPT](#在任何地方使用-chatgpt)
+- [延伸應用](#延伸應用)
 - [開發用 API](#開發用-api)
 
 ---
@@ -24,6 +25,10 @@
 - [ChatGPT for Google](https://github.com/wong2/chat-gpt-google-extension)：Chrome/Edge/Firefox 瀏覽器擴充套件，在 Google 搜索結果旁並列 ChatGPT 回應。
 - [ChatGPT for VSCode](https://github.com/mpociot/chatgpt-vscode)：VSCode 擴充套件。
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): MacOS 選單列應用程式。
+
+## 延伸應用
+
+- [ShareGPT](https://sharegpt.com/): 輕鬆分享 ChatGPT 對話紀錄
 
 ## 開發用 API
 

@@ -10,6 +10,7 @@
 
 - [Official Resource](#official-resource)
 - [Use ChatGPT anywhere](#use-chatgpt-anywhere)
+- [Applications](#applications)
 - [API for developers](#api-for-developers)
 
 ---
@@ -24,6 +25,10 @@
 - [ChatGPT for Google](https://github.com/wong2/chat-gpt-google-extension): Chrome/Edge/Firefox Browser extension. Display ChatGPT response alongside Google Search results.
 - [ChatGPT for VSCode](https://github.com/mpociot/chatgpt-vscode): VSCode extension.
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): MacOS menubar app.
+
+## Applications
+
+- [ShareGPT](https://sharegpt.com/): Share your wildest ChatGPT conversations with one click.
 
 ## API for developers
 
