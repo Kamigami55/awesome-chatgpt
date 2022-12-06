@@ -17,6 +17,7 @@
 - [官方資源](#官方資源)
 - [在任何地方使用 ChatGPT](#在任何地方使用-chatgpt)
 - [擴展 ChatGPT 功能](#擴展-chatgpt-功能)
+- [延伸應用](#延伸應用)
 - [提示詞（Prompts）](#提示詞prompts)
 - [開發工具（API、SDK）](#開發工具apisdk)
 - [實驗](#實驗)
@@ -44,7 +45,11 @@
 ## 擴展 ChatGPT 功能
 
 - [ShareGPT](https://sharegpt.com/): 輕鬆分享 ChatGPT 對話紀錄。（[demo](https://twitter.com/steventey/status/1599816553490366464)）
-- [ChatGPT export to PNG/PDF/HTML](https://github.com/liady/ChatGPT-pdf): Chrome 瀏覽器擴充套件，能將 ChatGPT 紀錄下載成 PNG、PDF 檔，或產生可分享的連結。
+- [ChatGPT export to PNG/PDF/HTML](https://github.com/liady/ChatGPT-pdf)：Chrome 瀏覽器擴充套件，能將 ChatGPT 紀錄下載成 PNG、PDF 檔，或產生可分享的連結。
+
+## 延伸應用
+
+- [commitgpt](https://github.com/RomanHotsiy/commitgpt)：自動產生 commit 訊息。
 
 ## 提示詞（Prompts）
 

@@ -17,6 +17,7 @@
 - [Official Resource](#official-resource)
 - [Use ChatGPT anywhere](#use-chatgpt-anywhere)
 - [Extend ChatGPT feature](#extend-chatgpt-feature)
+- [Applications](#applications)
 - [Prompts](#prompts)
 - [Development tools (API, SDK)](#development-tools-api-sdk)
 - [Experiments](#experiments)
@@ -45,6 +46,10 @@
 
 - [ShareGPT](https://sharegpt.com/): Share your wildest ChatGPT conversations with one click. ([demo](https://twitter.com/steventey/status/1599816553490366464))
 - [ChatGPT export to PNG/PDF/HTML](https://github.com/liady/ChatGPT-pdf): Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link.
+
+## Applications
+
+- [commitgpt](https://github.com/RomanHotsiy/commitgpt): Automatically generate commit messages using ChatGPT.
 
 ## Prompts
 
