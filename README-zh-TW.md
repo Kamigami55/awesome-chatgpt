@@ -25,6 +25,7 @@
 - [ChatGPT for Google](https://github.com/wong2/chat-gpt-google-extension)：Chrome/Edge/Firefox 瀏覽器擴充套件，在 Google 搜索結果旁並列 ChatGPT 回應。
 - [ChatGPT for VSCode](https://github.com/mpociot/chatgpt-vscode)：VSCode 擴充套件。
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): MacOS 選單列應用程式。
+- [Twitter/@ChatGPTBot](https://twitter.com/ChatGPTBot): 推特機器人。（[程式碼](https://github.com/transitive-bullshit/chatgpt-twitter-bot)）
 
 ## 延伸應用
 

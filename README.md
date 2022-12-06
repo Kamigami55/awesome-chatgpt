@@ -25,6 +25,7 @@
 - [ChatGPT for Google](https://github.com/wong2/chat-gpt-google-extension): Chrome/Edge/Firefox Browser extension. Display ChatGPT response alongside Google Search results.
 - [ChatGPT for VSCode](https://github.com/mpociot/chatgpt-vscode): VSCode extension.
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): MacOS menubar app.
+- [Twitter/@ChatGPTBot](https://twitter.com/ChatGPTBot): Twitter bot. ([source code](https://github.com/transitive-bullshit/chatgpt-twitter-bot))
 
 ## Applications
 
