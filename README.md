@@ -21,8 +21,9 @@
 
 ## Use ChatGPT anywhere
 
-- [ChatGPT for Google](https://github.com/wong2/chat-gpt-google-extension): Browser extension to display ChatGPT response alongside Google Search results, supports Chrome/Edge/Firefox.
-- [ChatGPT for VSCode](https://github.com/mpociot/chatgpt-vscode): VSCode extension that allows you to use ChatGPT right within VSCode.
+- [ChatGPT for Google](https://github.com/wong2/chat-gpt-google-extension): Chrome/Edge/Firefox Browser extension. Display ChatGPT response alongside Google Search results.
+- [ChatGPT for VSCode](https://github.com/mpociot/chatgpt-vscode): VSCode extension.
+- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): MacOS menubar app.
 
 ## API for developers
 
