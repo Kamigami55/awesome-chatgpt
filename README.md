@@ -27,7 +27,6 @@
 - [ChatGPT for VSCode](https://github.com/mpociot/chatgpt-vscode): VSCode extension. ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): MacOS menubar app.
 - [Twitter/@ChatGPTBot](https://twitter.com/ChatGPTBot): Twitter bot. ([source code](https://github.com/transitive-bullshit/chatgpt-twitter-bot))
-- [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram): Run your own GPTChat Telegram bot, with a single command.
 - [ChatGPT ProBot](https://github.com/oceanlvr/ChatGPTBot): GitHub APP. Type `/chatgpt` to chat with ChatGPTBot.
 
 ## Applications
@@ -39,3 +38,4 @@
 - [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) (Python, Unofficial): Lightweight, TLS-Based ChatGPT API on your CLI without requiring a browser or access token.
 - [pip/revChatGPT](https://github.com/acheong08/ChatGPT) (Python, Unofficial): Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
 - [npm/chatgpt](https://github.com/transitive-bullshit/chatgpt-api) (Node.js, Unofficial): Node.js client for the unofficial ChatGPT API.
+- [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram): Run your own GPTChat Telegram bot, with a single command.
