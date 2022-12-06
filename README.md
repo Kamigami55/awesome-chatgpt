@@ -18,6 +18,7 @@
 - [Use ChatGPT anywhere](#use-chatgpt-anywhere)
 - [Applications](#applications)
 - [Development tools (API, SDK)](#development-tools-api-sdk)
+- [Experiments](#experiments)
 - [Contribution](#contribution)
 
 ---
@@ -49,6 +50,10 @@
 - [npm/chatgpt](https://github.com/transitive-bullshit/chatgpt-api) (Node.js): Node.js client for the unofficial ChatGPT API.
 - [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) (Telegram bot): Run your own GPTChat Telegram bot, with a single command.
 - [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) (Discord bot): Integrate your own Discord bot using chatGPT.
+
+## Experiments
+
+- [gptlang](https://github.com/forrestchang/gptlang): Experiment to see if we can create a programming language in ChatGPT.
 
 ---
 

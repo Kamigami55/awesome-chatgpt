@@ -18,6 +18,7 @@
 - [在任何地方使用 ChatGPT](#在任何地方使用-chatgpt)
 - [延伸應用](#延伸應用)
 - [開發工具（API、SDK）](#開發工具apisdk)
+- [實驗](#實驗)
 - [貢獻](#貢獻)
 
 ---
@@ -49,6 +50,10 @@
 - [npm/chatgpt](https://github.com/transitive-bullshit/chatgpt-api)（Node.js）：Node.js 客戶端。
 - [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)（Telegram bot）：執行自己的 GPTChat Telegram 機器人，只需要一行指令。
 - [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) (Discord bot): 整合自己的 Discord 機器人。
+
+## 實驗
+
+- [gptlang](https://github.com/forrestchang/gptlang): 驗證是否能利用 ChatGPT 建立一個程式語言的實驗。
 
 ---
 
