@@ -79,6 +79,7 @@
 
 ## 提示詞（Prompts）
 
+- [showGPT](https://showgpt.co/): 蒐集優質提示詞的網站，你也可以輕鬆上傳更多提示詞。
 - [awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt): 各種 ChatGPT 提示詞用法的文章和想法。
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts): ChatGPT 提示詞清單。
 
