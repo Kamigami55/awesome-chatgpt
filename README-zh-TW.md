@@ -28,6 +28,7 @@
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): MacOS 選單列應用程式。
 - [Twitter/@ChatGPTBot](https://twitter.com/ChatGPTBot): Twitter 推特機器人。（[程式碼](https://github.com/transitive-bullshit/chatgpt-twitter-bot)）
 - [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram): 執行自己的 GPTChat Telegram 機器人，只需要一行指令。
+- [ChatGPT ProBot](https://github.com/oceanlvr/ChatGPTBot): GitHub APP。輸入 `/chatgpt` 來與 ChatGPTBot 交談。
 
 ## 延伸應用
 
