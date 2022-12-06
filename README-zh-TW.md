@@ -61,6 +61,8 @@
 
 - [Twitter/@ChatGPTBot](https://twitter.com/ChatGPTBot)：Twitter 推特機器人。（[程式碼](https://github.com/transitive-bullshit/chatgpt-twitter-bot)）
 - [ChatGPT ProBot](https://github.com/oceanlvr/ChatGPTBot)：GitHub APP。輸入 `/chatgpt` 來與 ChatGPTBot 交談。
+- [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)（Telegram bot）：執行自己的 GPTChat Telegram 機器人，只需要一行指令。
+- [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) (Discord bot): 整合自己的 Discord 機器人。
 
 ## 擴展 ChatGPT 功能
 
@@ -83,8 +85,6 @@
 - [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT)（Python）：輕量化、基於 TLS 的 ChatGPT API 可以在您的 CLI 中使用，無需使用瀏覽器或驗證金鑰。
 - [pip/revChatGPT](https://github.com/acheong08/ChatGPT)（Python）：與 OpenAI 的 ChatGPT API 互動的輕量化套件。採用逆向工程手法。
 - [npm/chatgpt](https://github.com/transitive-bullshit/chatgpt-api)（Node.js）：Node.js 客戶端。
-- [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)（Telegram bot）：執行自己的 GPTChat Telegram 機器人，只需要一行指令。
-- [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) (Discord bot): 整合自己的 Discord 機器人。
 
 ## 實驗
 
