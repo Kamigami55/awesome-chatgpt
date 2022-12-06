@@ -17,6 +17,7 @@
 - [官方資源](#官方資源)
 - [在任何地方使用 ChatGPT](#在任何地方使用-chatgpt)
 - [延伸應用](#延伸應用)
+- [提示詞（Prompts）](#提示詞prompts)
 - [開發工具（API、SDK）](#開發工具apisdk)
 - [實驗](#實驗)
 - [貢獻](#貢獻)
@@ -43,6 +44,11 @@
 ## 延伸應用
 
 - [ShareGPT](https://sharegpt.com/): 輕鬆分享 ChatGPT 對話紀錄。（[demo](https://twitter.com/steventey/status/1599816553490366464)）
+
+## 提示詞（Prompts）
+
+- [awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt): 各種 ChatGPT 提示詞用法的文章和想法。
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts): ChatGPT 提示詞清單。
 
 ## 開發工具（API、SDK）
 

@@ -17,6 +17,7 @@
 - [Official Resource](#official-resource)
 - [Use ChatGPT anywhere](#use-chatgpt-anywhere)
 - [Applications](#applications)
+- [Prompts](#prompts)
 - [Development tools (API, SDK)](#development-tools-api-sdk)
 - [Experiments](#experiments)
 - [Contribution](#contribution)
@@ -43,6 +44,11 @@
 ## Applications
 
 - [ShareGPT](https://sharegpt.com/): Share your wildest ChatGPT conversations with one click. ([demo](https://twitter.com/steventey/status/1599816553490366464))
+
+## Prompts
+
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts): ChatGPT prompts that works well.
+- [awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt): Posts & thoughts about prompting ChatGPT for different usages
 
 ## Development tools (API, SDK)
 
