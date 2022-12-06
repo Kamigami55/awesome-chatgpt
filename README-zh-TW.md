@@ -35,12 +35,13 @@
 - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf)：Chrome/Edge/Firefox 瀏覽器擴充套件，在 Google 搜索結果旁並列 ChatGPT 回應。（[Firefox擴充套件](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-google/)、[程式碼](https://github.com/wong2/chat-gpt-google-extension)）
 - [ChatGPT Extension](https://chrome.google.com/webstore/detail/chatgpt-chrome-extension/cdjifpfganmhoojfclednjdnnpooaojb)：Chrome 瀏覽器擴充套件，在右上角彈窗快速使用 ChatGPT。（[程式碼](https://github.com/kazuki-sf/ChatGPT_Extension)）
 - [ChatGPT Everywhere](https://github.com/gragland/chatgpt-everywhere)：Chrome 瀏覽器擴充套件，在任何輸入框使用 ChatGPT。（[demo](https://twitter.com/gabe_ragland/status/1599466486422470656)）
-- [ChatGPT for VSCode](https://github.com/mpociot/chatgpt-vscode)：VSCode 擴充套件。（[demo](https://twitter.com/marcelpociot/status/1599180144551526400)）
 - [ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop)：Windows/MacOS 桌面選單列應用程式。使用 Tauri 和 Rust 開發。
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：MacOS 選單列應用程式。
 - [Twitter/@ChatGPTBot](https://twitter.com/ChatGPTBot)：Twitter 推特機器人。（[程式碼](https://github.com/transitive-bullshit/chatgpt-twitter-bot)）
 - [ChatGPT ProBot](https://github.com/oceanlvr/ChatGPTBot)：GitHub APP。輸入 `/chatgpt` 來與 ChatGPTBot 交談。
 - [ChatGPT Raycast extension](https://github.com/abielzulio/chatgpt-raycast)：Raycast 擴充套件。
+- [ChatGPT for VSCode](https://github.com/mpociot/chatgpt-vscode)：VSCode 擴充套件。（[demo](https://twitter.com/marcelpociot/status/1599180144551526400)）
+- [chatgpt.vim](https://github.com/terror/chatgpt.nvim)：Neovim 插件，在 Neovim buffer 裡使用 ChatGPT。
 
 ## 擴展 ChatGPT 功能
 

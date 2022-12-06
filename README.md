@@ -35,12 +35,13 @@
 - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf): Chrome/Edge/Firefox Browser extension. Display ChatGPT response alongside Google Search results. ([Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-google/), [source code](https://github.com/wong2/chat-gpt-google-extension))
 - [ChatGPT Extension](https://chrome.google.com/webstore/detail/chatgpt-chrome-extension/cdjifpfganmhoojfclednjdnnpooaojb): Chrome Extension that lets you quickly access OpenAI's ChatGPT on the web. ([source code](https://github.com/kazuki-sf/ChatGPT_Extension))
 - [ChatGPT Everywhere](https://github.com/gragland/chatgpt-everywhere): Chrome extension that adds ChatGPT to every text box on the internet. ([demo](https://twitter.com/gabe_ragland/status/1599466486422470656))
-- [ChatGPT for VSCode](https://github.com/mpociot/chatgpt-vscode): VSCode extension. ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
 - [ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop): Windows/MacOS desktop menubar app using tauri & rust.
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): MacOS menubar app.
 - [Twitter/@ChatGPTBot](https://twitter.com/ChatGPTBot): Twitter bot. ([source code](https://github.com/transitive-bullshit/chatgpt-twitter-bot))
 - [ChatGPT ProBot](https://github.com/oceanlvr/ChatGPTBot): GitHub APP. Type `/chatgpt` to chat with ChatGPTBot.
 - [ChatGPT Raycast extension](https://github.com/abielzulio/chatgpt-raycast): Run ChatGPT through Raycast extension.
+- [ChatGPT for VSCode](https://github.com/mpociot/chatgpt-vscode): VSCode extension. ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
+- [chatgpt.vim](https://github.com/terror/chatgpt.nvim): Neovim plugin that lets you query ChatGPT inside a Neovim buffer.
 
 ## Extend ChatGPT feature
 
