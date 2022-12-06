@@ -31,9 +31,10 @@
 - [ChatGPT for Google](https://github.com/wong2/chat-gpt-google-extension)：Chrome/Edge/Firefox 瀏覽器擴充套件，在 Google 搜索結果旁並列 ChatGPT 回應。
 - [ChatGPT Everywhere](https://github.com/gragland/chatgpt-everywhere)：Chrome 瀏覽器擴充套件，在任何輸入框使用 ChatGPT。（[demo](https://twitter.com/gabe_ragland/status/1599466486422470656)）
 - [ChatGPT for VSCode](https://github.com/mpociot/chatgpt-vscode)：VSCode 擴充套件。（[demo](https://twitter.com/marcelpociot/status/1599180144551526400)）
-- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): MacOS 選單列應用程式。
-- [Twitter/@ChatGPTBot](https://twitter.com/ChatGPTBot): Twitter 推特機器人。（[程式碼](https://github.com/transitive-bullshit/chatgpt-twitter-bot)）
-- [ChatGPT ProBot](https://github.com/oceanlvr/ChatGPTBot): GitHub APP。輸入 `/chatgpt` 來與 ChatGPTBot 交談。
+- [ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop)：Windows/MacOS 桌面選單列應用程式。使用 Tauri 和 Rust 開發。
+- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：MacOS 選單列應用程式。
+- [Twitter/@ChatGPTBot](https://twitter.com/ChatGPTBot)：Twitter 推特機器人。（[程式碼](https://github.com/transitive-bullshit/chatgpt-twitter-bot)）
+- [ChatGPT ProBot](https://github.com/oceanlvr/ChatGPTBot)：GitHub APP。輸入 `/chatgpt` 來與 ChatGPTBot 交談。
 
 ## 延伸應用
 
