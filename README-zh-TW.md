@@ -52,6 +52,7 @@
 
 - [ChatGPT for VSCode](https://github.com/mpociot/chatgpt-vscode)：VSCode 擴充套件。（[demo](https://twitter.com/marcelpociot/status/1599180144551526400)）
 - [chatgpt.vim](https://github.com/terror/chatgpt.nvim)：Neovim 插件，在 Neovim buffer 裡使用 ChatGPT。
+- [docGPT](https://github.com/cesarhuret/docGPT)：Google 文件編輯器插件，在 Google Docs 內使用 ChatGPT。
 
 ### 啟動器（Launcher）擴充套件
 
