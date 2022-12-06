@@ -6,6 +6,10 @@
 
 > English version can be found here：[English version](./README.md)
 
+> **Warning**
+> 請注意目前下列所有資源都是 **「非官方」** 的（除了「[官方資源](#官方資源)」區塊）。
+> 使用時請特別小心。
+
 ## 目錄
 
 - [官方資源](#官方資源)
@@ -35,7 +39,7 @@
 
 ## 開發工具（API、SDK）
 
-- [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT)（Python、非官方）：輕量化、基於 TLS 的 ChatGPT API 可以在您的 CLI 中使用，無需使用瀏覽器或驗證金鑰。
-- [pip/revChatGPT](https://github.com/acheong08/ChatGPT)（Python、非官方）：與 OpenAI 的 ChatGPT API 互動的輕量化套件。採用逆向工程手法。
-- [npm/chatgpt](https://github.com/transitive-bullshit/chatgpt-api)（Node.js、非官方）：Node.js 客戶端。
-- [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)（Telegram bot、非官方）：執行自己的 GPTChat Telegram 機器人，只需要一行指令。
+- [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT)（Python）：輕量化、基於 TLS 的 ChatGPT API 可以在您的 CLI 中使用，無需使用瀏覽器或驗證金鑰。
+- [pip/revChatGPT](https://github.com/acheong08/ChatGPT)（Python）：與 OpenAI 的 ChatGPT API 互動的輕量化套件。採用逆向工程手法。
+- [npm/chatgpt](https://github.com/transitive-bullshit/chatgpt-api)（Node.js）：Node.js 客戶端。
+- [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)（Telegram bot）：執行自己的 GPTChat Telegram 機器人，只需要一行指令。
