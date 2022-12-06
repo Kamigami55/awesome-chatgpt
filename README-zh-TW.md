@@ -1,4 +1,4 @@
-# Awesome ChatGPT
+# Awesome ChatGPT 中文版
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![English badge](https://img.shields.io/badge/%E8%8B%B1%E6%96%87-English-blue)](./README.md) [![中文版 badge](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-Traditional%20Chinese-blue)](./README-zh-TW.md)
 
