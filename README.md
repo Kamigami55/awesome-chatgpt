@@ -16,7 +16,7 @@
 
 - [Official Resource](#official-resource)
 - [Use ChatGPT anywhere](#use-chatgpt-anywhere)
-- [Applications](#applications)
+- [Extend ChatGPT feature](#extend-chatgpt-feature)
 - [Prompts](#prompts)
 - [Development tools (API, SDK)](#development-tools-api-sdk)
 - [Experiments](#experiments)
@@ -41,9 +41,10 @@
 - [ChatGPT ProBot](https://github.com/oceanlvr/ChatGPTBot): GitHub APP. Type `/chatgpt` to chat with ChatGPTBot.
 - [ChatGPT Raycast extension](https://github.com/abielzulio/chatgpt-raycast): Run ChatGPT through Raycast extension.
 
-## Applications
+## Extend ChatGPT feature
 
 - [ShareGPT](https://sharegpt.com/): Share your wildest ChatGPT conversations with one click. ([demo](https://twitter.com/steventey/status/1599816553490366464))
+- [ChatGPT export to PNG/PDF/HTML](https://github.com/liady/ChatGPT-pdf): Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link.
 
 ## Prompts
 
