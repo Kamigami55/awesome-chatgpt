@@ -61,8 +61,9 @@
 
 - [Twitter/@ChatGPTBot](https://twitter.com/ChatGPTBot)：Twitter 推特機器人。（[程式碼](https://github.com/transitive-bullshit/chatgpt-twitter-bot)）
 - [ChatGPT ProBot](https://github.com/oceanlvr/ChatGPTBot)：GitHub APP。輸入 `/chatgpt` 來與 ChatGPTBot 交談。
-- [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)（Telegram bot）：執行自己的 GPTChat Telegram 機器人，只需要一行指令。
-- [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) (Discord bot): 整合自己的 Discord 機器人。
+- [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)：執行自己的 GPTChat Telegram 機器人，只需要一行指令。
+- [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot)：整合自己的 Discord 機器人。
+- [ChatGPT LINE Bot](https://github.com/isdaviddong/chatGPTLineBot)：建立自己的 ChatGPT LINE 機器人。
 
 ## 擴展 ChatGPT 功能
 

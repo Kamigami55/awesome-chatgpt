@@ -61,8 +61,9 @@
 
 - [Twitter/@ChatGPTBot](https://twitter.com/ChatGPTBot): Twitter bot. ([source code](https://github.com/transitive-bullshit/chatgpt-twitter-bot))
 - [ChatGPT ProBot](https://github.com/oceanlvr/ChatGPTBot): GitHub APP. Type `/chatgpt` to chat with ChatGPTBot.
-- [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) (Telegram bot): Run your own GPTChat Telegram bot, with a single command.
-- [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) (Discord bot): Integrate your own Discord bot using chatGPT.
+- [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram): Run your own GPTChat Telegram bot, with a single command.
+- [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot): Integrate your own Discord bot using chatGPT.
+- [ChatGPT LINE Bot](https://github.com/isdaviddong/chatGPTLineBot) (Chinese content): Build your own ChatGPT LINE bot.
 
 ## Extend ChatGPT Feature
 
