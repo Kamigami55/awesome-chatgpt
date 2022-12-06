@@ -23,6 +23,7 @@
 ## Use ChatGPT anywhere
 
 - [ChatGPT for Google](https://github.com/wong2/chat-gpt-google-extension): Chrome/Edge/Firefox Browser extension. Display ChatGPT response alongside Google Search results.
+- [ChatGPT Everywhere](https://github.com/gragland/chatgpt-everywhere): Chrome extension that adds ChatGPT to every text box on the internet. ([demo](https://twitter.com/gabe_ragland/status/1599466486422470656))
 - [ChatGPT for VSCode](https://github.com/mpociot/chatgpt-vscode): VSCode extension. ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): MacOS menubar app.
 - [Twitter/@ChatGPTBot](https://twitter.com/ChatGPTBot): Twitter bot. ([source code](https://github.com/transitive-bullshit/chatgpt-twitter-bot))
