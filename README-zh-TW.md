@@ -7,7 +7,9 @@
 > English version can be found here：[English version](./README.md)
 
 > **Warning**
+>
 > 請注意目前下列所有資源都是 **「非官方」** 的（除了「[官方資源](#官方資源)」區塊）。
+>
 > 使用時請特別小心。
 
 ## 目錄
