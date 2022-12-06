@@ -26,7 +26,8 @@
 - [ChatGPT Everywhere](https://github.com/gragland/chatgpt-everywhere)：Chrome 瀏覽器擴充套件，在任何輸入框使用 ChatGPT。（[demo](https://twitter.com/gabe_ragland/status/1599466486422470656)）
 - [ChatGPT for VSCode](https://github.com/mpociot/chatgpt-vscode)：VSCode 擴充套件。（[demo](https://twitter.com/marcelpociot/status/1599180144551526400)）
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): MacOS 選單列應用程式。
-- [Twitter/@ChatGPTBot](https://twitter.com/ChatGPTBot): 推特機器人。（[程式碼](https://github.com/transitive-bullshit/chatgpt-twitter-bot)）
+- [Twitter/@ChatGPTBot](https://twitter.com/ChatGPTBot): Twitter 推特機器人。（[程式碼](https://github.com/transitive-bullshit/chatgpt-twitter-bot)）
+- [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram): 執行自己的 GPTChat Telegram 機器人，只需要一行指令。
 
 ## 延伸應用
 
