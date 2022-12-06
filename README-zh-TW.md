@@ -30,7 +30,7 @@
 
 ## 在任何地方使用 ChatGPT
 
-- [ChatGPT for Google](https://github.com/wong2/chat-gpt-google-extension)：Chrome/Edge/Firefox 瀏覽器擴充套件，在 Google 搜索結果旁並列 ChatGPT 回應。
+- [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf)：Chrome/Edge/Firefox 瀏覽器擴充套件，在 Google 搜索結果旁並列 ChatGPT 回應。（[Firefox擴充套件](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-google/)、[程式碼](https://github.com/wong2/chat-gpt-google-extension)）
 - [ChatGPT Extension](https://chrome.google.com/webstore/detail/chatgpt-chrome-extension/cdjifpfganmhoojfclednjdnnpooaojb)：Chrome 瀏覽器擴充套件，在右上角彈窗快速使用 ChatGPT。（[程式碼](https://github.com/kazuki-sf/ChatGPT_Extension)）
 - [ChatGPT Everywhere](https://github.com/gragland/chatgpt-everywhere)：Chrome 瀏覽器擴充套件，在任何輸入框使用 ChatGPT。（[demo](https://twitter.com/gabe_ragland/status/1599466486422470656)）
 - [ChatGPT for VSCode](https://github.com/mpociot/chatgpt-vscode)：VSCode 擴充套件。（[demo](https://twitter.com/marcelpociot/status/1599180144551526400)）
