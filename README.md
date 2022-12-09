@@ -73,6 +73,7 @@
 - [ShareGPT](https://sharegpt.com/): Share your wildest ChatGPT conversations with one click. ([demo](https://twitter.com/steventey/status/1599816553490366464))
 - [ChatGPT export to PNG/PDF/HTML](https://github.com/liady/ChatGPT-pdf): Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link.
 - [ChatGPT Advanced](https://github.com/qunash/chatgpt-advanced): Chrome extension that augments your ChatGPT prompts with web results.
+- [TampermonkeyUserscripts/ChatGPTVoiceInput](https://github.com/doggy8088/TampermonkeyUserscripts/blob/main/src/ChatGPTVoiceInput.user.js?fbclid=IwAR2sYE_CIOTdhNlRqaYwJ3eh-foa4O7ZHukYcc1dXLcU8IHLIDOt52gdAdQ) (Chinese content): Tampermonkey script. ChatGPT voice input interface (supports English/Chinese/Japanese/Korean).
 
 ## Applications
 

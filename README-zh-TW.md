@@ -73,6 +73,7 @@
 - [ShareGPT](https://sharegpt.com/): 輕鬆分享 ChatGPT 對話紀錄。（[demo](https://twitter.com/steventey/status/1599816553490366464)）
 - [ChatGPT export to PNG/PDF/HTML](https://github.com/liady/ChatGPT-pdf)：Chrome 瀏覽器擴充套件，能將 ChatGPT 紀錄下載成 PNG、PDF 檔，或產生可分享的連結。
 - [ChatGPT Advanced](https://github.com/qunash/chatgpt-advanced): Chrome 瀏覽器擴充套件，在 ChatGPT 頁面同時顯示網頁搜尋結果。
+- [TampermonkeyUserscripts/ChatGPTVoiceInput](https://github.com/doggy8088/TampermonkeyUserscripts/blob/main/src/ChatGPTVoiceInput.user.js?fbclid=IwAR2sYE_CIOTdhNlRqaYwJ3eh-foa4O7ZHukYcc1dXLcU8IHLIDOt52gdAdQ): Tampermonkey 腳本，ChatGPT 語音輸入介面（支援中/英/日/韓語言）。
 
 ## 延伸應用
 
