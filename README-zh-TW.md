@@ -92,6 +92,7 @@
 - [pip/revChatGPT](https://github.com/acheong08/ChatGPT)（Python）：與 OpenAI 的 ChatGPT API 互動的輕量化套件。採用逆向工程手法。
 - [npm/chatgpt](https://github.com/transitive-bullshit/chatgpt-api)（Node.js）：Node.js 客戶端。
 - [ChatGPT API Dart](https://github.com/MisterJimson/chatgpt_api_dart) (Dart): Dart 客戶端。
+- [go-chatgpt](https://github.com/abhayptp/go-chatgpt) (Golang): Golang 客戶端。
 
 ## 實驗
 
