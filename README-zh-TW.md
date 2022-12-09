@@ -63,6 +63,7 @@
 - [Twitter/@ChatGPTBot](https://twitter.com/ChatGPTBot)：Twitter 推特機器人。（[程式碼](https://github.com/transitive-bullshit/chatgpt-twitter-bot)）
 - [ChatGPT ProBot](https://github.com/oceanlvr/ChatGPTBot)：GitHub APP。輸入 `/chatgpt` 來與 ChatGPTBot 交談。
 - [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)：執行自己的 GPTChat Telegram 機器人，只需要一行指令。
+- [ChatGPT Telegram Bot in AWS Lambda](https://github.com/franalgaba/chatgpt-telegram-bot-serverless): ChatGPT Telegram 機器人，執行在 AWS Lambda 上。支援語音訊息和 Markdown 顯示。
 - [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot)：整合自己的 Discord 機器人。
 - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：ChatGPT 的微信 Bot。裝完依賴後只需要填寫 OpenAI 帳號密碼和微信掃碼就可以使用。
 - [ChatGPT LINE Bot](https://github.com/isdaviddong/chatGPTLineBot)：建立自己的 ChatGPT LINE 機器人。
