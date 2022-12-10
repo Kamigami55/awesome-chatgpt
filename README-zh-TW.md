@@ -21,6 +21,7 @@
     - [編輯器](#編輯器)
     - [啟動器（Launcher）擴充套件](#啟動器launcher擴充套件)
     - [聊天機器人](#聊天機器人)
+    - [反向代理網站（Reverse Proxy）](#反向代理網站reverse-proxy)
 - [擴展 ChatGPT 功能](#擴展-chatgpt-功能)
 - [延伸應用](#延伸應用)
 - [提示詞（Prompts）](#提示詞prompts)
@@ -67,6 +68,10 @@
 - [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot)：整合自己的 Discord 機器人。
 - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：ChatGPT 的微信 Bot。裝完依賴後只需要填寫 OpenAI 帳號密碼和微信掃碼就可以使用。
 - [ChatGPT LINE Bot](https://github.com/isdaviddong/chatGPTLineBot)：建立自己的 ChatGPT LINE 機器人。
+
+### 反向代理網站（Reverse Proxy）
+
+- [gpt.chatapi.art](https://gpt.chatapi.art/)：ChatGPT 反向代理網站，在被 OpenAI 限制權限的區域也能使用 ChatGPT，無須登入帳號。
 
 ## 擴展 ChatGPT 功能
 

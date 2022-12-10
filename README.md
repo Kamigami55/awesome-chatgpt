@@ -15,16 +15,17 @@
 ## Table of Contents
 
 - [Official Resource](#official-resource)
-- [Use ChatGPT anywhere](#use-chatgpt-anywhere)
+- [Use ChatGPT Anywhere](#use-chatgpt-anywhere)
     - [Browser Extensions](#browser-extensions)
     - [Desktop Applications](#desktop-applications)
     - [Editors](#editors)
-    - [Launcher extensions](#launcher-extensions)
+    - [Launcher Extensions](#launcher-extensions)
     - [Chatbots](#chatbots)
-- [Extend ChatGPT feature](#extend-chatgpt-feature)
+    - [Reverse Proxy](#reverse-proxy)
+- [Extend ChatGPT Feature](#extend-chatgpt-feature)
 - [Applications](#applications)
 - [Prompts](#prompts)
-- [Development tools (API, SDK)](#development-tools-api-sdk)
+- [Development Tools (API, SDK)](#development-tools-api-sdk)
 - [Experiments](#experiments)
 - [Contribution](#contribution)
 
@@ -54,7 +55,7 @@
 - [chatgpt.vim](https://github.com/terror/chatgpt.nvim): Neovim plugin that lets you query ChatGPT inside a Neovim buffer.
 - [docGPT](https://github.com/cesarhuret/docGPT): ChatGPT directly within Google Docs as an Editor Add-on.
 
-### Launcher extensions
+### Launcher Extensions
 
 - [ChatGPT Raycast extension](https://github.com/abielzulio/chatgpt-raycast): Run ChatGPT through Raycast extension.
 
@@ -67,6 +68,10 @@
 - [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot): Integrate your own Discord bot using chatGPT.
 - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt): Use ChatGPT On Wechat via wechaty.
 - [ChatGPT LINE Bot](https://github.com/isdaviddong/chatGPTLineBot) (Chinese content): Build your own ChatGPT LINE bot.
+
+### Reverse Proxy
+
+- [gpt.chatapi.art](https://gpt.chatapi.art/): ChatGPT reverse proxy site, intended for people with restricted access to areas by OpenAI.
 
 ## Extend ChatGPT Feature
 
