@@ -67,7 +67,7 @@
 - [ChatGPT Telegram Bot in AWS Lambda](https://github.com/franalgaba/chatgpt-telegram-bot-serverless): ChatGPT Telegram 機器人，執行在 AWS Lambda 上。支援語音訊息和 Markdown 顯示。
 - [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot)：整合自己的 Discord 機器人。
 - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：ChatGPT 的微信 Bot。裝完依賴後只需要填寫 OpenAI 帳號密碼和微信掃碼就可以使用。
-- [ChatGPT LINE Bot](https://github.com/isdaviddong/chatGPTLineBot)：建立自己的 ChatGPT LINE 機器人。
+- [ChatGPT LINE Bot](https://github.com/isdaviddong/chatGPTLineBot)（中文內容）：建立自己的 ChatGPT LINE 機器人。
 
 ### 反向代理網站（Reverse Proxy）
 
@@ -78,7 +78,7 @@
 - [ShareGPT](https://sharegpt.com/): 輕鬆分享 ChatGPT 對話紀錄。（[demo](https://twitter.com/steventey/status/1599816553490366464)）
 - [ChatGPT export to PNG/PDF/HTML](https://github.com/liady/ChatGPT-pdf)：Chrome 瀏覽器擴充套件，能將 ChatGPT 紀錄下載成 PNG、PDF 檔，或產生可分享的連結。
 - [ChatGPT Advanced](https://github.com/qunash/chatgpt-advanced): Chrome 瀏覽器擴充套件，在 ChatGPT 頁面同時顯示網頁搜尋結果。
-- [TampermonkeyUserscripts/ChatGPTVoiceInput](https://github.com/doggy8088/TampermonkeyUserscripts/blob/main/src/ChatGPTVoiceInput.user.js?fbclid=IwAR2sYE_CIOTdhNlRqaYwJ3eh-foa4O7ZHukYcc1dXLcU8IHLIDOt52gdAdQ): Tampermonkey 腳本，ChatGPT 語音輸入介面（支援中/英/日/韓語言）。
+- [TampermonkeyUserscripts/ChatGPTVoiceInput](https://github.com/doggy8088/TampermonkeyUserscripts/blob/main/src/ChatGPTVoiceInput.user.js?fbclid=IwAR2sYE_CIOTdhNlRqaYwJ3eh-foa4O7ZHukYcc1dXLcU8IHLIDOt52gdAdQ)（中文內容）: Tampermonkey 腳本，ChatGPT 語音輸入介面（支援中/英/日/韓語言）。
 
 ## 延伸應用
 
