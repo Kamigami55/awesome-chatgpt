@@ -68,6 +68,7 @@
 - [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot)：整合自己的 Discord 機器人。
 - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：ChatGPT 的微信 Bot。裝完依賴後只需要填寫 OpenAI 帳號密碼和微信掃碼就可以使用。
 - [ChatGPT LINE Bot](https://github.com/isdaviddong/chatGPTLineBot)（中文內容）：建立自己的 ChatGPT LINE 機器人。
+- [gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant)（中文內容）：在 10 分鐘內打造自己的 GPT LINE 機器人。
 
 ### 反向代理網站（Reverse Proxy）
 

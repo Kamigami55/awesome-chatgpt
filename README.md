@@ -68,6 +68,7 @@
 - [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot): Integrate your own Discord bot using chatGPT.
 - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt): Use ChatGPT On Wechat via wechaty.
 - [ChatGPT LINE Bot](https://github.com/isdaviddong/chatGPTLineBot) (Chinese content): Build your own ChatGPT LINE bot.
+- [gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) (Chinese content): Run your own GPT LINE bot on Vercel in 10 minutes.
 
 ### Reverse Proxy
 
