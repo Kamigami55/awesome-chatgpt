@@ -87,6 +87,7 @@
 - [summarize.site](https://chrome.google.com/webstore/detail/summarize/lmhkmibdclhibdooglianggbnhcbcjeh): Chrome extension to summarize web page content.
 - [commitgpt](https://github.com/RomanHotsiy/commitgpt): Automatically generate commit messages using ChatGPT.
 - [chatgpt-action](https://github.com/kxxt/chatgpt-action): Github Action to let ChatGPT review PRs for you.
+- [StackExplain](https://github.com/shobrook/stackexplain): CLI tool to explain your error message with ChatGPT.
 
 ## Prompts
 

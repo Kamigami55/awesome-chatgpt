@@ -87,6 +87,7 @@
 - [summarize.site](https://chrome.google.com/webstore/detail/summarize/lmhkmibdclhibdooglianggbnhcbcjeh)：Chrome 瀏覽器擴充套件，總結網頁內容、給出摘要。
 - [commitgpt](https://github.com/RomanHotsiy/commitgpt)：自動產生 commit 訊息。
 - [chatgpt-action](https://github.com/kxxt/chatgpt-action): Github Action，讓 ChatGPT review 你的 PR。
+- [StackExplain](https://github.com/shobrook/stackexplain): 讓 ChatGPT 解釋錯誤訊息的命令列工具。
 
 ## 提示詞（Prompts）
 
