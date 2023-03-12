@@ -90,6 +90,7 @@
 - [commitgpt](https://github.com/RomanHotsiy/commitgpt): Automatically generate commit messages using ChatGPT.
 - [chatgpt-action](https://github.com/kxxt/chatgpt-action): Github Action to let ChatGPT review PRs for you.
 - [StackExplain](https://github.com/shobrook/stackexplain): CLI tool to explain your error message with ChatGPT.
+- [ChatMind](https://www.chatmind.tech/): Generating and Modifying Mind Maps through AI Dialogue.
 
 ## Prompts
 

@@ -90,6 +90,7 @@
 - [commitgpt](https://github.com/RomanHotsiy/commitgpt)：自動產生 commit 訊息。
 - [chatgpt-action](https://github.com/kxxt/chatgpt-action): Github Action，讓 ChatGPT review 你的 PR。
 - [StackExplain](https://github.com/shobrook/stackexplain): 讓 ChatGPT 解釋錯誤訊息的命令列工具。
+- [ChatMind](https://www.chatmind.tech/)：透過人工智慧對話生成心智圖。
 
 ## 提示詞（Prompts）
 
