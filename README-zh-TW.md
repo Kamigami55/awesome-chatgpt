@@ -96,6 +96,7 @@
 - [showGPT](https://showgpt.co/): 蒐集優質提示詞的網站，你也可以輕鬆上傳更多提示詞。
 - [awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt): 各種 ChatGPT 提示詞用法的文章和想法。
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts): ChatGPT 提示詞清單。
+- [ChatGPT 指令大全](https://www.explainthis.io/zh-hant/chatgpt)（中文內容）: 精煉過的指令語句，讓你充分發揮 ChatGPT 的強大功能。
 
 ## 開發工具（API、SDK）
 
