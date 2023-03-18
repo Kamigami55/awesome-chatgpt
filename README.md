@@ -15,6 +15,7 @@
 ## Table of Contents
 
 - [Official Resource](#official-resource)
+- [Built chatGPT integrated Projects](#chatgpt-integrated-projects)
 - [Use ChatGPT Anywhere](#use-chatgpt-anywhere)
     - [Browser Extensions](#browser-extensions)
     - [Desktop Applications](#desktop-applications)
@@ -35,6 +36,14 @@
 
 - [ChatGPT website](https://chat.openai.com/)
 - [ChatGPT launch blog post](https://openai.com/blog/chatgpt/)
+
+## ChatGPT Integrated Projects 
+
+### Python
+
+- [email-automation](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/email-automation) : Automates news briefing / blogging with email automation. 
+- [chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot) : ChatGPT Integrated faster and secure chatbot hosted on cloud.
+- [whistep speech-to-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text) : OpnAI's whisper is a library to convert speech to text. 
 
 ## Use ChatGPT Anywhere
 
