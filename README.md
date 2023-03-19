@@ -76,6 +76,7 @@
 ### Reverse Proxy
 
 - [gpt.chatapi.art](https://gpt.chatapi.art/): ChatGPT reverse proxy site, intended for people with restricted access to areas by OpenAI.
+- [OK ChatGPT](http://119.91.201.57:3000/):  Applicable to people who use OpenAI in restricted access areas like China, etc. This ChatGPT reverse proxy opens the website directly，No registration required, no verification code required.
 
 ## Extend ChatGPT Feature
 
