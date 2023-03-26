@@ -70,6 +70,7 @@
 - [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot)：整合自己的 Discord 機器人。
 - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：ChatGPT 的微信 Bot。裝完依賴後只需要填寫 OpenAI 帳號密碼和微信掃碼就可以使用。
 - [ChatGPT LINE Bot](https://github.com/isdaviddong/chatGPTLineBot)（中文內容）：建立自己的 ChatGPT LINE 機器人。
+- [ChatGPT LINE Bot in AWS Lambda](https://github.com/ctjoy/chatgpt-line-bot-serverless): 在 10 分鐘內用 Python 和 Serverless Framework 在 AWS Lambda 上打造 ChatGPT LINE 機器人。
 - [gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant)（中文內容）：在 10 分鐘內打造自己的 GPT LINE 機器人。
 - [chatgpt-for-chatbot-feishu](https://github.com/go-zoox/chatgpt-for-chatbot-feishu)：快速將 ChatGPT 接入飛書的應用，基於 OpenAI 官方接口 GPT3 模型，支持私有部署，作為私人工作助理或者企業員工助理。
 
