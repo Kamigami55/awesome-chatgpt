@@ -91,6 +91,7 @@
 - [chatgpt-action](https://github.com/kxxt/chatgpt-action): Github Action to let ChatGPT review PRs for you.
 - [StackExplain](https://github.com/shobrook/stackexplain): CLI tool to explain your error message with ChatGPT.
 - [ChatMind](https://www.chatmind.tech/): Generating and Modifying Mind Maps through AI Dialogue.
+- [Landing AI](https://landing-ai.com) - Explain your product, branding, and get a unique landing page made with GPT-4 and Dall-E.
 
 ## Prompts
 
