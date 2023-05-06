@@ -43,6 +43,8 @@
 - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf)：Chrome/Edge/Firefox 瀏覽器擴充套件，在 Google 搜索結果旁並列 ChatGPT 回應。（[Firefox擴充套件](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-google/)、[程式碼](https://github.com/wong2/chat-gpt-google-extension)）
 - [ChatGPT Extension](https://chrome.google.com/webstore/detail/chatgpt-chrome-extension/cdjifpfganmhoojfclednjdnnpooaojb)：Chrome 瀏覽器擴充套件，在右上角彈窗快速使用 ChatGPT。（[程式碼](https://github.com/kazuki-sf/ChatGPT_Extension)）
 - [ChatGPT Everywhere](https://github.com/gragland/chatgpt-everywhere)：Chrome 瀏覽器擴充套件，在任何輸入框使用 ChatGPT。（[demo](https://twitter.com/gabe_ragland/status/1599466486422470656)）
+- [chatgpt-for-wechat](https://chrome.google.com/webstore/detail/chatgpt-for-wechat/cdlangplaophialnpfbdfndiobanklfd): Chrome 瀏覽器擴充套件，能夠快速將 GPT 接入微信（支持 ChatGPT, BingChat, Google Bard）。
+- [chatgpt-for-whatsapp](https://chrome.google.com/webstore/detail/chatgpt-for-whatsapp/ajlcjjeepijhfbgkciegfdoklpcpmipk): Chrome 瀏覽器擴充套件，能夠快速將 GPT 接入 WhatsApp（支持 ChatGPT, BingChat, Google Bard）。
 
 ### 桌面應用程式
 
