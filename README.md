@@ -76,6 +76,9 @@
 ### Reverse Proxy
 
 - [gpt.chatapi.art](https://gpt.chatapi.art/): ChatGPT reverse proxy site, intended for people with restricted access to areas by OpenAI.
+- [proxy.getgptapi.com](https://proxy.getgptapi.com/)：Free and Robust reverse proxy site for OpenAI API powered by [Get ChatGPT](https://getgptapi.com), no geo restriction, no log/data stored.
+- [proxy-1.getgptapi.com](https://proxy-1.getgptapi.com/)：Free and Robust reverse proxy site for OpenAI API powered by [Get ChatGPT](https://getgptapi.com),, no geo restriction, no log/data stored.
+- [proxy-2.getgptapi.com](https://proxy-2.getgptapi.com/)：Free and Robust reverse proxy site for OpenAI API powered by [Get ChatGPT](https://getgptapi.com),, no geo restriction, no log/data stored.
 
 ## Extend ChatGPT Feature
 
