@@ -64,6 +64,7 @@
 
 - [Twitter/@ChatGPTBot](https://twitter.com/ChatGPTBot): Twitter bot. ([source code](https://github.com/transitive-bullshit/chatgpt-twitter-bot))
 - [ChatGPT ProBot](https://github.com/oceanlvr/ChatGPTBot): GitHub APP. Type `/chatgpt` to chat with ChatGPTBot.
+- [TeleChatGPT](https://github.com/Patrizio-programs/TeleChatGPT): Telegram Bot using GoogleBard
 - [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram): Run your own GPTChat Telegram bot, with a single command.
 - [ChatGPT Telegram Bot in AWS Lambda](https://github.com/franalgaba/chatgpt-telegram-bot-serverless): ChatGPT Telegram Bot running in AWS Lambda. Supports voice messages & markdown rendering.
 - [chatbot-telegram](https://github.com/Ciyou/chatbot-telegram): ChatGPT Telegram Bot powered by `Deno` and `TypeScript`.
