@@ -116,6 +116,7 @@
 - [npm/chatgpt](https://github.com/transitive-bullshit/chatgpt-api) (Node.js): Node.js client for the unofficial ChatGPT API.
 - [ChatGPT API Dart](https://github.com/MisterJimson/chatgpt_api_dart) (Dart): Dart client for the unofficial ChatGPT API.
 - [go-chatgpt](https://github.com/abhayptp/go-chatgpt) (Golang): An unofficial ChatGPT client in Golang.
+- [chatgpt.js](https://chatgpt.js.org) (JavaScript): A powerful client-side JavaScript library for ChatGPT. ([source code](https://github.com/chatgptjs/chatgpt.js))
 
 ## Experiments
 
