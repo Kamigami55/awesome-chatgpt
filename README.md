@@ -86,6 +86,7 @@
 - [ChatGPT Widescreen](https://chatgptevo.com/widescreen): Adds widescreen + full-window modes to ChatGPT. ([demo](https://www.youtube.com/watch?v=xtOklfi3lZY&list=PLB4S0Z21beYNoCdS3WvAMSxW69OuZzuF1), [source code](https://github.com/adamlui/chatgpt-widescreen))
 - [ChatGPT Auto Refresh](https://chatgptevo.com/autorefresh): Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks.
 - [ChatGPT Auto-Continue](https://chatgptevo.com/autocontinue): Automatically continue generating multiple ChatGPT responses.
+- [Autoclear ChatGPT History](https://chatgptevo.com/autoclear): Adds chat auto-clear functionality to ChatGPT for more privacy.
 
 ## Applications
 
