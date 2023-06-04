@@ -87,6 +87,7 @@
 - [ChatGPT Auto Refresh](https://chatgptevo.com/autorefresh): Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks.
 - [ChatGPT Auto-Continue](https://chatgptevo.com/autocontinue): Automatically continue generating multiple ChatGPT responses.
 - [Autoclear ChatGPT History](https://chatgptevo.com/autoclear): Adds chat auto-clear functionality to ChatGPT for more privacy.
+- [ChatGPT Infinity](https://chatgptevo.com/infinity): Generate endless answers from all-knowing ChatGPT (in any language!)
 
 ## Applications
 
