@@ -17,6 +17,7 @@
 - [Official Resource](#official-resource)
 - [Use ChatGPT Anywhere](#use-chatgpt-anywhere)
     - [Browser Extensions](#browser-extensions)
+    - [Greasemonkey Userscripts](#greasemonkey-userscripts)
     - [Desktop Applications](#desktop-applications)
     - [Editors](#editors)
     - [Launcher Extensions](#launcher-extensions)
