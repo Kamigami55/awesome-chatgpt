@@ -45,12 +45,14 @@
 - [ChatGPT Extension](https://chrome.google.com/webstore/detail/chatgpt-chrome-extension/cdjifpfganmhoojfclednjdnnpooaojb): Chrome Extension that lets you quickly access OpenAI's ChatGPT on the web. ([source code](https://github.com/kazuki-sf/ChatGPT_Extension))
 - [ChatGPT Everywhere](https://github.com/gragland/chatgpt-everywhere): Chrome extension that adds ChatGPT to every text box on the internet. ([demo](https://twitter.com/gabe_ragland/status/1599466486422470656))
 - [ChatGPT Widescreen](https://chatgptwidescreen.com): Adds Widescreen + Fullscreen modes to ChatGPT. ([demo](https://www.youtube.com/watch?v=xtOklfi3lZY&list=PLB4S0Z21beYNoCdS3WvAMSxW69OuZzuF1), [source code](https://github.com/adamlui/chatgpt-widescreen))
+- [ChatGPT Infinity](https://chatgptinfinity.com): Generate endless answers from all-knowing ChatGPT (in any language!)
 
 ### Greasemonkey Userscripts
 
 - [DuckDuckGPT](https://www.duckduckgpt.com): Adds the magic of ChatGPT to DuckDuckGo sidebar (powered by GPT-4!) ([demo](https://www.youtube.com/watch?v=Mzv0AClfvx0&list=PL53kJT43HUs2-qFdEz7WfCj1FKQPhk3cK))
 - [BraveGPT](https://www.bravegpt.com): Adds the magic of ChatGPT to Brave Search sidebar (powered by GPT-4!) ([demo](https://www.youtube.com/watch?v=j0A378wwb-E&list=PL53kJT43HUs2-qFdEz7WfCj1FKQPhk3cK))
 - [ChatGPT Widescreen](https://chatgptwidescreen.com): Adds Widescreen + Fullscreen modes to ChatGPT. ([demo](https://www.youtube.com/watch?v=xtOklfi3lZY&list=PLB4S0Z21beYNoCdS3WvAMSxW69OuZzuF1), [source code](https://github.com/adamlui/chatgpt-widescreen))
+- [ChatGPT Infinity](https://chatgptinfinity.com): Generate endless answers from all-knowing ChatGPT (in any language!)
 
 ### Desktop Applications
 
@@ -95,7 +97,7 @@
 - [ChatGPT Auto Refresh](https://chatgptevo.com/autorefresh): Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks.
 - [ChatGPT Auto-Continue](https://chatgptevo.com/autocontinue): Automatically continue generating multiple ChatGPT responses.
 - [Autoclear ChatGPT History](https://chatgptevo.com/autoclear): Adds chat auto-clear functionality to ChatGPT for more privacy.
-- [ChatGPT Infinity](https://chatgptevo.com/infinity): Generate endless answers from all-knowing ChatGPT (in any language!)
+- [ChatGPT Infinity](https://chatgptinfinity.com): Generate endless answers from all-knowing ChatGPT (in any language!)
 
 ## Applications
 
