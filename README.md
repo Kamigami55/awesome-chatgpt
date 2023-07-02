@@ -83,6 +83,8 @@
 - [ChatGPT LINE Bot](https://github.com/isdaviddong/chatGPTLineBot) (Chinese content): Build your own ChatGPT LINE bot.
 - [gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) (Chinese content): Run your own GPT LINE bot on Vercel in 10 minutes.
 - [chatgpt-for-chatbot-feishu](https://github.com/go-zoox/chatgpt-for-chatbot-feishu): Connect ChatGPT with Feishu Chat Bot quickly.
+- [DuckDuckGPT](https://www.duckduckgpt.com): Adds the magic of ChatGPT to DuckDuckGo sidebar (powered by GPT-4!) ([demo](https://www.youtube.com/watch?v=Mzv0AClfvx0&list=PL53kJT43HUs2-qFdEz7WfCj1FKQPhk3cK))
+- [BraveGPT](https://www.bravegpt.com): Adds the magic of ChatGPT to Brave Search sidebar (powered by GPT-4!) ([demo](https://www.youtube.com/watch?v=j0A378wwb-E&list=PL53kJT43HUs2-qFdEz7WfCj1FKQPhk3cK))
 
 ### Reverse Proxy
 
