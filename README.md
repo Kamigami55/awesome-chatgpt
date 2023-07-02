@@ -45,18 +45,17 @@
 - [ChatGPT Extension](https://chrome.google.com/webstore/detail/chatgpt-chrome-extension/cdjifpfganmhoojfclednjdnnpooaojb): Chrome Extension that lets you quickly access OpenAI's ChatGPT on the web. ([source code](https://github.com/kazuki-sf/ChatGPT_Extension))
 - [ChatGPT Everywhere](https://github.com/gragland/chatgpt-everywhere): Chrome extension that adds ChatGPT to every text box on the internet. ([demo](https://twitter.com/gabe_ragland/status/1599466486422470656))
 - [ChatGPT Widescreen](https://chatgptwidescreen.com): Adds Widescreen + Fullscreen modes to ChatGPT. ([demo](https://www.youtube.com/watch?v=xtOklfi3lZY&list=PLB4S0Z21beYNoCdS3WvAMSxW69OuZzuF1), [source code](https://github.com/adamlui/chatgpt-widescreen))
-- [ChatGPT Infinity](https://chatgptinfinity.com): Generate endless answers from all-knowing ChatGPT (in any language!)
+- [ChatGPT Infinity](https://chatgptinfinity.com): Generate endless answers from all-knowing ChatGPT (in any language!) ([source code](https://github.com/adamlui/chatgpt-infinity))
 
 ### Greasemonkey Userscripts
 
-- [DuckDuckGPT](https://www.duckduckgpt.com): Adds the magic of ChatGPT to DuckDuckGo sidebar (powered by GPT-4!) ([demo](https://www.youtube.com/watch?v=Mzv0AClfvx0&list=PL53kJT43HUs2-qFdEz7WfCj1FKQPhk3cK))
-- [BraveGPT](https://www.bravegpt.com): Adds the magic of ChatGPT to Brave Search sidebar (powered by GPT-4!) ([demo](https://www.youtube.com/watch?v=j0A378wwb-E&list=PL53kJT43HUs2-qFdEz7WfCj1FKQPhk3cK))
+- [DuckDuckGPT](https://www.duckduckgpt.com): Adds the magic of ChatGPT to DuckDuckGo sidebar (powered by GPT-4!) ([demo](https://www.youtube.com/watch?v=Mzv0AClfvx0&list=PL53kJT43HUs2-qFdEz7WfCj1FKQPhk3cK), ([source code](https://github.com/kudoai/duckduckgpt))
+- [BraveGPT](https://www.bravegpt.com): Adds the magic of ChatGPT to Brave Search sidebar (powered by GPT-4!) ([demo](https://www.youtube.com/watch?v=j0A378wwb-E&list=PL53kJT43HUs2-qFdEz7WfCj1FKQPhk3cK), ([source code](https://github.com/kudoai/bravegpt))
 - [ChatGPT Widescreen](https://chatgptwidescreen.com): Adds Widescreen + Fullscreen modes to ChatGPT. ([demo](https://www.youtube.com/watch?v=xtOklfi3lZY&list=PLB4S0Z21beYNoCdS3WvAMSxW69OuZzuF1), [source code](https://github.com/adamlui/chatgpt-widescreen))
-- [ChatGPT Infinity](https://chatgptinfinity.com): Generate endless answers from all-knowing ChatGPT (in any language!)
-- [ChatGPT Auto Refresh](https://chatgptautorefresh.com): Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks.
-- [ChatGPT Auto-Continue](https://chatgptevo.com/autocontinue): Automatically continue generating multiple ChatGPT responses.
-- [Autoclear ChatGPT History](https://chatgptevo.com/autoclear): Adds chat auto-clear functionality to ChatGPT for more privacy.
-- [ChatGPT Infinity](https://chatgptinfinity.com): Generate endless answers from all-knowing ChatGPT (in any language!)
+- [ChatGPT Auto Refresh](https://chatgptautorefresh.com): Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks. ([source code](https://github.com/adamlui/chatgpt-auto-refresh))
+- [ChatGPT Auto-Continue](https://chatgptevo.com/autocontinue): Automatically continue generating multiple ChatGPT responses. ([source code](https://github.com/adamlui/chatgpt-auto-continue))
+- [Autoclear ChatGPT History](https://chatgptevo.com/autoclear): Adds chat auto-clear functionality to ChatGPT for more privacy. ([source code](https://github.com/adamlui/autoclear-chatgpt-history))
+- [ChatGPT Infinity](https://chatgptinfinity.com): Generate endless answers from all-knowing ChatGPT (in any language!) ([source code](https://github.com/adamlui/chatgpt-infinity))
 
 ### Desktop Applications
 
@@ -86,8 +85,8 @@
 - [ChatGPT LINE Bot](https://github.com/isdaviddong/chatGPTLineBot) (Chinese content): Build your own ChatGPT LINE bot.
 - [gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) (Chinese content): Run your own GPT LINE bot on Vercel in 10 minutes.
 - [chatgpt-for-chatbot-feishu](https://github.com/go-zoox/chatgpt-for-chatbot-feishu): Connect ChatGPT with Feishu Chat Bot quickly.
-- [DuckDuckGPT](https://www.duckduckgpt.com): Adds the magic of ChatGPT to DuckDuckGo sidebar (powered by GPT-4!) ([demo](https://www.youtube.com/watch?v=Mzv0AClfvx0&list=PL53kJT43HUs2-qFdEz7WfCj1FKQPhk3cK))
-- [BraveGPT](https://www.bravegpt.com): Adds the magic of ChatGPT to Brave Search sidebar (powered by GPT-4!) ([demo](https://www.youtube.com/watch?v=j0A378wwb-E&list=PL53kJT43HUs2-qFdEz7WfCj1FKQPhk3cK))
+- [DuckDuckGPT](https://www.duckduckgpt.com): Adds the magic of ChatGPT to DuckDuckGo sidebar (powered by GPT-4!) ([demo](https://www.youtube.com/watch?v=Mzv0AClfvx0&list=PL53kJT43HUs2-qFdEz7WfCj1FKQPhk3cK), [source code](https://github.com/kudoai/duckduckgpt))
+- [BraveGPT](https://www.bravegpt.com): Adds the magic of ChatGPT to Brave Search sidebar (powered by GPT-4!) ([demo](https://www.youtube.com/watch?v=j0A378wwb-E&list=PL53kJT43HUs2-qFdEz7WfCj1FKQPhk3cK), [source code](https://github.com/kudoai/bravegpt))
 
 ### Reverse Proxy
 
@@ -100,10 +99,10 @@
 - [ChatGPT Advanced](https://github.com/qunash/chatgpt-advanced): Chrome extension that augments your ChatGPT prompts with web results.
 - [TampermonkeyUserscripts/ChatGPTVoiceInput](https://github.com/doggy8088/TampermonkeyUserscripts/blob/main/src/ChatGPTVoiceInput.user.js?fbclid=IwAR2sYE_CIOTdhNlRqaYwJ3eh-foa4O7ZHukYcc1dXLcU8IHLIDOt52gdAdQ) (Chinese content): Tampermonkey script. ChatGPT voice input interface (supports English/Chinese/Japanese/Korean).
 - [ChatGPT Widescreen](https://chatgptwidescreen.com): Adds Widescreen + Fullscreen modes to ChatGPT. ([demo](https://www.youtube.com/watch?v=xtOklfi3lZY&list=PLB4S0Z21beYNoCdS3WvAMSxW69OuZzuF1), [source code](https://github.com/adamlui/chatgpt-widescreen))
-- [ChatGPT Auto Refresh](https://chatgptautorefresh.com): Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks.
-- [ChatGPT Auto-Continue](https://chatgptevo.com/autocontinue): Automatically continue generating multiple ChatGPT responses.
-- [Autoclear ChatGPT History](https://chatgptevo.com/autoclear): Adds chat auto-clear functionality to ChatGPT for more privacy.
-- [ChatGPT Infinity](https://chatgptinfinity.com): Generate endless answers from all-knowing ChatGPT (in any language!)
+- [ChatGPT Auto Refresh](https://chatgptautorefresh.com): Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks. ([source code](https://github.com/adamlui/chatgpt-auto-refresh))
+- [ChatGPT Auto-Continue](https://chatgptevo.com/autocontinue): Automatically continue generating multiple ChatGPT responses. ([source code](https://github.com/adamlui/chatgpt-auto-continue))
+- [Autoclear ChatGPT History](https://chatgptevo.com/autoclear): Adds chat auto-clear functionality to ChatGPT for more privacy. ([source code](https://github.com/adamlui/autoclear-chatgpt-history))
+- [ChatGPT Infinity](https://chatgptinfinity.com): Generate endless answers from all-knowing ChatGPT (in any language!) ([source code](https://github.com/adamlui/chatgpt-infinity))
 
 ## Applications
 
@@ -127,7 +126,7 @@
 - [npm/chatgpt](https://github.com/transitive-bullshit/chatgpt-api) (Node.js): Node.js client for the unofficial ChatGPT API.
 - [ChatGPT API Dart](https://github.com/MisterJimson/chatgpt_api_dart) (Dart): Dart client for the unofficial ChatGPT API.
 - [go-chatgpt](https://github.com/abhayptp/go-chatgpt) (Golang): An unofficial ChatGPT client in Golang.
-- [chatgpt.js](https://chatgpt.js.org) (JavaScript): A powerful client-side JavaScript library for ChatGPT. ([source code](https://github.com/chatgptjs/chatgpt.js))
+- [chatgpt.js](https://chatgpt.js.org) (JavaScript): A powerful client-side JavaScript library for ChatGPT. ([source code](https://github.com/kudoai/chatgpt.js))
 
 ## Experiments
 
