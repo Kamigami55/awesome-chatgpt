@@ -17,6 +17,7 @@
 - [官方資源](#官方資源)
 - [在任何地方使用 ChatGPT](#在任何地方使用-chatgpt)
     - [瀏覽器擴充套件](#瀏覽器擴充套件)
+    - [Greasemonkey 用戶腳本](#greasemonkey-用戶腳本)
     - [桌面應用程式](#桌面應用程式)
     - [編輯器](#編輯器)
     - [啟動器（Launcher）擴充套件](#啟動器launcher擴充套件)
@@ -43,6 +44,11 @@
 - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf)：Chrome/Edge/Firefox 瀏覽器擴充套件，在 Google 搜索結果旁並列 ChatGPT 回應。（[Firefox擴充套件](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-google/)、[程式碼](https://github.com/wong2/chat-gpt-google-extension)）
 - [ChatGPT Extension](https://chrome.google.com/webstore/detail/chatgpt-chrome-extension/cdjifpfganmhoojfclednjdnnpooaojb)：Chrome 瀏覽器擴充套件，在右上角彈窗快速使用 ChatGPT。（[程式碼](https://github.com/kazuki-sf/ChatGPT_Extension)）
 - [ChatGPT Everywhere](https://github.com/gragland/chatgpt-everywhere)：Chrome 瀏覽器擴充套件，在任何輸入框使用 ChatGPT。（[demo](https://twitter.com/gabe_ragland/status/1599466486422470656)）
+
+### Greasemonkey 用戶腳本
+
+- [DuckDuckGPT](https://www.duckduckgpt.com): 將 ChatGPT 的魔力添加到 DuckDuckGo 側邊欄（由 GPT-4 提供支持！） ([演示](https://www.youtube.com/watch?v=Mzv0AClfvx0&list=PL53kJT43HUs2-qFdEz7WfCj1FKQPhk3cK), ([源代碼](https://github.com/kudoai/duckduckgpt))
+- [BraveGPT](https://www.bravegpt.com): 將 ChatGPT 的魔力添加到 Brave Search 側邊欄（由 GPT-4 提供支持！）([演示](https://www.youtube.com/watch?v=j0A378wwb-E&list=PL53kJT43HUs2-qFdEz7WfCj1FKQPhk3cK), ([源代碼](https://github.com/kudoai/bravegpt))
 
 ### 桌面應用程式
 
@@ -72,6 +78,8 @@
 - [ChatGPT LINE Bot](https://github.com/isdaviddong/chatGPTLineBot)（中文內容）：建立自己的 ChatGPT LINE 機器人。
 - [gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant)（中文內容）：在 10 分鐘內打造自己的 GPT LINE 機器人。
 - [chatgpt-for-chatbot-feishu](https://github.com/go-zoox/chatgpt-for-chatbot-feishu)：快速將 ChatGPT 接入飛書的應用，基於 OpenAI 官方接口 GPT3 模型，支持私有部署，作為私人工作助理或者企業員工助理。
+- [DuckDuckGPT](https://www.duckduckgpt.com): 將 ChatGPT 的魔力添加到 DuckDuckGo 側邊欄（由 GPT-4 提供支持！） ([演示](https://www.youtube.com/watch?v=Mzv0AClfvx0&list=PL53kJT43HUs2-qFdEz7WfCj1FKQPhk3cK), ([源代碼](https://github.com/kudoai/duckduckgpt))
+- [BraveGPT](https://www.bravegpt.com): 將 ChatGPT 的魔力添加到 Brave Search 側邊欄（由 GPT-4 提供支持！）([演示](https://www.youtube.com/watch?v=j0A378wwb-E&list=PL53kJT43HUs2-qFdEz7WfCj1FKQPhk3cK), ([源代碼](https://github.com/kudoai/bravegpt))
 
 ### 反向代理網站（Reverse Proxy）
 
@@ -83,6 +91,11 @@
 - [ChatGPT export to PNG/PDF/HTML](https://github.com/liady/ChatGPT-pdf)：Chrome 瀏覽器擴充套件，能將 ChatGPT 紀錄下載成 PNG、PDF 檔，或產生可分享的連結。
 - [ChatGPT Advanced](https://github.com/qunash/chatgpt-advanced): Chrome 瀏覽器擴充套件，在 ChatGPT 頁面同時顯示網頁搜尋結果。
 - [TampermonkeyUserscripts/ChatGPTVoiceInput](https://github.com/doggy8088/TampermonkeyUserscripts/blob/main/src/ChatGPTVoiceInput.user.js?fbclid=IwAR2sYE_CIOTdhNlRqaYwJ3eh-foa4O7ZHukYcc1dXLcU8IHLIDOt52gdAdQ)（中文內容）: Tampermonkey 腳本，ChatGPT 語音輸入介面（支援中/英/日/韓語言）。
+- [ChatGPT 寬屏模式](https://chatgptwidescreen.com): 向 ChatGPT 添加寬屏 + 全屏模式。 ([演示](https://www.youtube.com/watch?v=xtOklfi3lZY&list=PLB4S0Z21beYNoCdS3WvAMSxW69OuZzuF1), [源代碼](https://github.com/adamlui/chatgpt-widescreen))
+- [ChatGPT 自動刷新](https://chatgptautorefresh.com): 保持 ChatGPT 會話最新以避免網絡錯誤 + Cloudflare 檢查。 ([源代碼](https://github.com/adamlui/chatgpt-auto-refresh))
+- [ChatGPT 自動繼續](https://chatgptevo.com/autocontinue): 自動繼續生成多個 ChatGPT 響應。 ([源代碼](https://github.com/adamlui/chatgpt-auto-continue))
+- [自動清除 ChatGPT 歷史記錄](https://chatgptevo.com/autoclear): 向 ChatGPT 添加聊天自動清除功能，以提高隱私性。 ([源代碼](https://github.com/adamlui/autoclear-chatgpt-history))
+- [ChatGPT 無窮](https://chatgptinfinity.com): 從無所不知的 ChatGPT 生成無窮無盡的答案（以任何語言！） ([源代碼](https://github.com/adamlui/chatgpt-infinity))
 
 ## 延伸應用
 
@@ -106,6 +119,7 @@
 - [npm/chatgpt](https://github.com/transitive-bullshit/chatgpt-api)（Node.js）：Node.js 客戶端。
 - [ChatGPT API Dart](https://github.com/MisterJimson/chatgpt_api_dart) (Dart): Dart 客戶端。
 - [go-chatgpt](https://github.com/abhayptp/go-chatgpt) (Golang): Golang 客戶端。
+- [chatgpt.js](https://chatgpt.js.org) (JavaScript): 適用於 ChatGPT 的強大客戶端 JavaScript 庫。 ([源代碼](https://github.com/kudoai/chatgpt.js))
 
 ## 實驗
 
