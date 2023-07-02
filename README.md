@@ -53,6 +53,7 @@
 - [BraveGPT](https://www.bravegpt.com): Adds the magic of ChatGPT to Brave Search sidebar (powered by GPT-4!) ([demo](https://www.youtube.com/watch?v=j0A378wwb-E&list=PL53kJT43HUs2-qFdEz7WfCj1FKQPhk3cK))
 - [ChatGPT Widescreen](https://chatgptwidescreen.com): Adds Widescreen + Fullscreen modes to ChatGPT. ([demo](https://www.youtube.com/watch?v=xtOklfi3lZY&list=PLB4S0Z21beYNoCdS3WvAMSxW69OuZzuF1), [source code](https://github.com/adamlui/chatgpt-widescreen))
 - [ChatGPT Infinity](https://chatgptinfinity.com): Generate endless answers from all-knowing ChatGPT (in any language!)
+- [ChatGPT Auto Refresh](https://chatgptautorefresh.com): Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks.
 
 ### Desktop Applications
 
@@ -94,7 +95,7 @@
 - [ChatGPT Advanced](https://github.com/qunash/chatgpt-advanced): Chrome extension that augments your ChatGPT prompts with web results.
 - [TampermonkeyUserscripts/ChatGPTVoiceInput](https://github.com/doggy8088/TampermonkeyUserscripts/blob/main/src/ChatGPTVoiceInput.user.js?fbclid=IwAR2sYE_CIOTdhNlRqaYwJ3eh-foa4O7ZHukYcc1dXLcU8IHLIDOt52gdAdQ) (Chinese content): Tampermonkey script. ChatGPT voice input interface (supports English/Chinese/Japanese/Korean).
 - [ChatGPT Widescreen](https://chatgptwidescreen.com): Adds Widescreen + Fullscreen modes to ChatGPT. ([demo](https://www.youtube.com/watch?v=xtOklfi3lZY&list=PLB4S0Z21beYNoCdS3WvAMSxW69OuZzuF1), [source code](https://github.com/adamlui/chatgpt-widescreen))
-- [ChatGPT Auto Refresh](https://chatgptevo.com/autorefresh): Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks.
+- [ChatGPT Auto Refresh](https://chatgptautorefresh.com): Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks.
 - [ChatGPT Auto-Continue](https://chatgptevo.com/autocontinue): Automatically continue generating multiple ChatGPT responses.
 - [Autoclear ChatGPT History](https://chatgptevo.com/autoclear): Adds chat auto-clear functionality to ChatGPT for more privacy.
 - [ChatGPT Infinity](https://chatgptinfinity.com): Generate endless answers from all-knowing ChatGPT (in any language!)
