@@ -44,6 +44,7 @@
 - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf): Chrome/Edge/Firefox Browser extension. Display ChatGPT response alongside Google Search results. ([Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-google/), [source code](https://github.com/wong2/chat-gpt-google-extension))
 - [ChatGPT Extension](https://chrome.google.com/webstore/detail/chatgpt-chrome-extension/cdjifpfganmhoojfclednjdnnpooaojb): Chrome Extension that lets you quickly access OpenAI's ChatGPT on the web. ([source code](https://github.com/kazuki-sf/ChatGPT_Extension))
 - [ChatGPT Everywhere](https://github.com/gragland/chatgpt-everywhere): Chrome extension that adds ChatGPT to every text box on the internet. ([demo](https://twitter.com/gabe_ragland/status/1599466486422470656))
+- [ChatGPT Widescreen](https://chatgptwidescreen.com): Adds Widescreen + Fullscreen modes to ChatGPT. ([demo](https://www.youtube.com/watch?v=xtOklfi3lZY&list=PLB4S0Z21beYNoCdS3WvAMSxW69OuZzuF1), [source code](https://github.com/adamlui/chatgpt-widescreen))
 
 ### Greasemonkey Userscripts
 
@@ -89,7 +90,7 @@
 - [ChatGPT export to PNG/PDF/HTML](https://github.com/liady/ChatGPT-pdf): Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link.
 - [ChatGPT Advanced](https://github.com/qunash/chatgpt-advanced): Chrome extension that augments your ChatGPT prompts with web results.
 - [TampermonkeyUserscripts/ChatGPTVoiceInput](https://github.com/doggy8088/TampermonkeyUserscripts/blob/main/src/ChatGPTVoiceInput.user.js?fbclid=IwAR2sYE_CIOTdhNlRqaYwJ3eh-foa4O7ZHukYcc1dXLcU8IHLIDOt52gdAdQ) (Chinese content): Tampermonkey script. ChatGPT voice input interface (supports English/Chinese/Japanese/Korean).
-- [ChatGPT Widescreen](https://chatgptevo.com/widescreen): Adds widescreen + full-window modes to ChatGPT. ([demo](https://www.youtube.com/watch?v=xtOklfi3lZY&list=PLB4S0Z21beYNoCdS3WvAMSxW69OuZzuF1), [source code](https://github.com/adamlui/chatgpt-widescreen))
+- [ChatGPT Widescreen](https://chatgptwidescreen.com): Adds Widescreen + Fullscreen modes to ChatGPT. ([demo](https://www.youtube.com/watch?v=xtOklfi3lZY&list=PLB4S0Z21beYNoCdS3WvAMSxW69OuZzuF1), [source code](https://github.com/adamlui/chatgpt-widescreen))
 - [ChatGPT Auto Refresh](https://chatgptevo.com/autorefresh): Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks.
 - [ChatGPT Auto-Continue](https://chatgptevo.com/autocontinue): Automatically continue generating multiple ChatGPT responses.
 - [Autoclear ChatGPT History](https://chatgptevo.com/autoclear): Adds chat auto-clear functionality to ChatGPT for more privacy.
