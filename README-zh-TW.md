@@ -104,6 +104,7 @@
 - [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT)（Python）：輕量化、基於 TLS 的 ChatGPT API 可以在您的 CLI 中使用，無需使用瀏覽器或驗證金鑰。
 - [pip/revChatGPT](https://github.com/acheong08/ChatGPT)（Python）：與 OpenAI 的 ChatGPT API 互動的輕量化套件。採用逆向工程手法。
 - [npm/chatgpt](https://github.com/transitive-bullshit/chatgpt-api)（Node.js）：Node.js 客戶端。
+- [Embedchain](https://github.com/embedchain/embedchain): 用于在数据集上创建类似 ChatGPT 的机器人的框架。
 - [ChatGPT API Dart](https://github.com/MisterJimson/chatgpt_api_dart) (Dart): Dart 客戶端。
 - [go-chatgpt](https://github.com/abhayptp/go-chatgpt) (Golang): Golang 客戶端。
 
